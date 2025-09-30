@@ -1,0 +1,3 @@
+-Foward.m- For simulation 5DOF robot arm
+-Foward_And_Invert_Final.py / Foward_And_Invert_Final2.py - This code make you can test Foward and Inverse kinematics that you simulated in Matlab
+-Traformatrix_variables.py- Check traformation matrix T03,T35,T05 in trigonometry terms for calculated Inverse kinematics 
